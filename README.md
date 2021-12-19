@@ -12,7 +12,7 @@ Node.js
 Javascript
 MongoDB
 Mysql
-But I also love working with Angular.js .
+But I also love working with Angular.js
 
 
 My stack mostly includes
